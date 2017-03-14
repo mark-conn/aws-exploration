@@ -4,7 +4,7 @@ import styles from './home.scss';
 const Home = () => {
   return (
     <div className={styles.root}>
-      HELLO!
+      HELLO! DU
     </div>
   );
 };
